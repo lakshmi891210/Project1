@@ -1,1 +1,1 @@
-select first_name from employees where department_id = 60;
+select first_name from employees where department_id = 80;
